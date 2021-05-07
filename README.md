@@ -27,7 +27,8 @@ git config --global user.email "你的GitHub注册邮箱"
 ```
 这个应该是一次性操作。
 
-至此，git和GitHub的联系就建立好了。如果你想要把GitHub上的仓库克隆到本地，去你的GitHub页面，点击`Code`，然后在上面的`Clone`那选择`SSH`，然后点击右边的复制按钮。然后去你的本地工作区，`git bash here`,然后输入代码```
+至此，git和GitHub的联系就建立好了。如果你想要把GitHub上的仓库克隆到本地，去你的GitHub页面，点击`Code`，然后在上面的`Clone`那选择`SSH`，然后点击右边的复制按钮。然后去你的本地工作区，`git bash here`,然后输入代码
+```
 git clone 你之前复制的那段
 ```
 
